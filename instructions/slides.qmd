@@ -31,6 +31,9 @@ More information about `revealjs`:
 
 ## Introduction  {.smaller}
 
+This is a test statement in the introduction
+
+
 -   Develop a storyline that captures attention and maintains interest.
 
 -   Your audience is your peers
